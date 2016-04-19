@@ -1,0 +1,8 @@
+C:\Users\Minh\Desktop\Exo Code\V1.3\obj\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\Minh\Desktop\Exo Code\V1.3\obj\Debug\EX3_BasicMoves.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\New Folder\Exo code\V1.3\obj\Debug\EX3_BasicMoves.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\New Folder\Exo code\V1.3\obj\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\Minh\Desktop\New Folder\Exo code\V1.3\obj\Debug\EX3_BasicMoves.csproj.GenerateResource.Cache
+C:\Users\Minh\Desktop\New Folder\C# .NET 2008\V1.3\obj\Debug\EX3_BasicMoves.csprojResolveAssemblyReference.cache
+C:\Users\Minh\Desktop\New Folder\C# .NET 2008\V1.3\obj\Debug\EX3_BasicMoves.BasicMoves.resources
+C:\Users\Minh\Desktop\New Folder\C# .NET 2008\V1.3\obj\Debug\EX3_BasicMoves.csproj.GenerateResource.Cache
