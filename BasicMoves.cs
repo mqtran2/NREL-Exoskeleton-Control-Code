@@ -26,6 +26,10 @@
 // For more information on Copley Motion products see:
 // http://www.copleycontrols.com
 //
+
+// Added by Minh: Manual Jogging, Data logging and JSON pasrsing.
+
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
